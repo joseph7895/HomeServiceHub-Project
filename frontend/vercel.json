@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://local-service-marketplace-backend.onrender.com/api/:path*"
+      "destination": "https://homeservicehub-project.onrender.com/api/:path*"
     },
     {
       "source": "/((?!api/).*)",
